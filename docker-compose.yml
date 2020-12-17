@@ -1,7 +1,7 @@
 version: "3"
 services:
   airflow:
-    image: "rac-airflow:local"
+    image: "my-airflow-training:local"
     ports:
       - "8080:8080"
     volumes:
