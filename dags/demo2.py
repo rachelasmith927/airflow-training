@@ -6,7 +6,7 @@ default_args = {
     "owner": "admin",
     "depends_on_past": False,
     "start_date": datetime(2020, 1, 28),
-    "email": ["jeremy.lott@extendhealth.com"],
+    "email": ["rachel.smith3@extendhealth.com"],
     "email_on_failure": False,
     "email_on_retry": False,
     "retries": 1,
