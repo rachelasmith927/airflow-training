@@ -14,7 +14,7 @@ default_args = {
 }
 
 with DAG(
-    "demo2",
+    "demo3",
     description="demo some stuff",
     default_args=default_args,
     schedule_interval=None,
